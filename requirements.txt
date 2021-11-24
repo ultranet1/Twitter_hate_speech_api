@@ -24,3 +24,5 @@ sklearn==0.0
 sqlparse==0.4.2
 threadpoolctl==3.0.0
 Werkzeug==2.0.2
+nltk
+regex
